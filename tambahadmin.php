@@ -40,7 +40,7 @@ require_once ("koneksi.php");
 	?>
 
 <script>
-	alert("data sukses ditambahkan");
+	alert("data sukses ditambahkan coy");
 	window.location='dataadmin.php';
 </script>
 	<?php } ?>
